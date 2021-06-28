@@ -18,6 +18,5 @@ public class WeatherForecastId implements Serializable {
 	private String baseTime;
 	private String nx;
 	private String ny;
-	private String fcstValue;
-
+	private String category;
 }
